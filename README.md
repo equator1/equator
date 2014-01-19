@@ -1,0 +1,4 @@
+equator
+=======
+
+equator is imaginary .
